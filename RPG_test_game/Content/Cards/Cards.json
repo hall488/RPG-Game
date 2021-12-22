@@ -1,0 +1,46 @@
+{
+  "Wizard Cards": [
+    {
+      "name": "Fire Orbs",
+      "level": 1,
+      "dmg": 3,
+      "range": 3,
+      "targets": 3,
+      "xp": 0,
+      "xppt": 1,
+      "discard": true,
+      "prio": 69,
+      "move": 3
+    },
+
+    {
+      "name": "Flame Strike",
+      "level": 1,
+      "dmg": 3,
+      "range": 2,
+      "targets": 1,
+      "xp": 0,
+      "xppt": 0,
+      "discard": false,
+      "prio": 36,
+      "move": 0
+    }
+  ],
+  "Ent Cards": [
+    {
+      
+      "name": "Filler",
+      "level": 1,
+      "dmg": 3,
+      "range": 3,
+      "targets": 3,
+      "xp": 0,
+      "xppt": 1,
+      "discard": true,
+      "prio": 69,
+      "move": 3
+      
+    }
+  ]
+}
+

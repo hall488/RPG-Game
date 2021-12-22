@@ -1,0 +1,743 @@
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\RPG_test_game.exe
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\RPG_test_game.deps.json
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\RPG_test_game.runtimeconfig.json
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\RPG_test_game.runtimeconfig.dev.json
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\RPG_test_game.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\RPG_test_game.pdb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.AssemblyInfoInputs.cache
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.AssemblyInfo.cs
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.csproj.CoreCompileInputs.cache
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.csproj.CopyComplete
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.pdb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.genruntimeconfig.cache
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\wizard.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\obj\Debug\netcoreapp3.1\RPG_test_game.csproj.AssemblyReference.cache
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Game Objects\Spells Effect.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Casting Spells\Casting Spells_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Dying\Dying_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Hurt\Hurt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle Blinking\Idle Blinking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Idle\Idle_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Loop\Jump Loop_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Loop\Jump Loop_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Loop\Jump Loop_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Loop\Jump Loop_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Loop\Jump Loop_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Loop\Jump Loop_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Start\Jump Start_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Start\Jump Start_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Start\Jump Start_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Start\Jump Start_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Start\Jump Start_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Jump Start\Jump Start_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Taunt\Taunt_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\PNG Sequences\Walking\Walking_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Body.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Face 01.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Face 02.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Face 03.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Head.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Left Arm.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Left Hand.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Right Arm.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Right Hand.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 01\Vector Parts\Weapon.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Game Objects\Spells Effect.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Dying\Dying_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Hurt\Hurt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle Blinking\Idle Blinking_SS.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Idle\Idle_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Loop\Jump Loop_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Loop\Jump Loop_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Loop\Jump Loop_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Loop\Jump Loop_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Loop\Jump Loop_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Loop\Jump Loop_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Start\Jump Start_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Start\Jump Start_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Start\Jump Start_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Start\Jump Start_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Start\Jump Start_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Jump Start\Jump Start_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Taunt\Taunt_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Body.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Face 01.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Face 02.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Face 03.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Head.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Left Arm.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Left Hand.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Right Arm.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Right Hand.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Vector Parts\Weapon.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Game Objects\Spells Effect.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Casting Spells\Casting Spells_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Dying\Dying_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Hurt\Hurt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle Blinking\Idle Blinking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Idle\Idle_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Loop\Jump Loop_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Loop\Jump Loop_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Loop\Jump Loop_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Loop\Jump Loop_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Loop\Jump Loop_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Loop\Jump Loop_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Start\Jump Start_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Start\Jump Start_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Start\Jump Start_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Start\Jump Start_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Start\Jump Start_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Jump Start\Jump Start_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Taunt\Taunt_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\PNG Sequences\Walking\Walking_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Body.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Face 01.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Face 02.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Face 03.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Head.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Left Arm.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Left Hand.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Right Arm.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Right Hand.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 03\Vector Parts\Weapon.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Walking\Walking_SS.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\PNG Sequences\Casting Spells\Casting Spells_SS.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Gloomhaven Tiles\D2a-Man-Made Stone - U2.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Gloomhaven Tiles\Tile_Highlight.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Wizard - 02\Game Objects\Fireball Effect.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Gloomhaven Tiles\A1a-Man-Made Stone - U1.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Attacking\Regular_Skeleton_01_Attacking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Dying\Regular_Skeleton_01_Dying_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Hurt\Regular_Skeleton_01_Hurt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Idle Blinking_SS.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle Blink\Regular_Skeleton_01_Idle_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Idle\Regular_Skeleton_01_Idle Blink_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Loop\Regular_Skeleton_01_Jump Loop_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Loop\Regular_Skeleton_01_Jump Loop_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Loop\Regular_Skeleton_01_Jump Loop_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Loop\Regular_Skeleton_01_Jump Loop_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Loop\Regular_Skeleton_01_Jump Loop_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Loop\Regular_Skeleton_01_Jump Loop_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Start\Regular_Skeleton_01_Jump Start_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Start\Regular_Skeleton_01_Jump Start_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Start\Regular_Skeleton_01_Jump Start_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Start\Regular_Skeleton_01_Jump Start_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Start\Regular_Skeleton_01_Jump Start_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Jump Start\Regular_Skeleton_01_Jump Start_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Taunt\Regular_Skeleton_01_Taunt_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Regular_Skeleton_01_Walking_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_01\PNG Sequences\Walking\Walking_SS.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Attacking\Regular_Skeleton_02_Attacking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Dying\Regular_Skeleton_02_Dying_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Hurt\Regular_Skeleton_02_Hurt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle Blink\Regular_Skeleton_02_Idle Blink_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Idle\Regular_Skeleton_02_Idle_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Loop\Regular_Skeleton_02_Jump Loop_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Loop\Regular_Skeleton_02_Jump Loop_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Loop\Regular_Skeleton_02_Jump Loop_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Loop\Regular_Skeleton_02_Jump Loop_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Loop\Regular_Skeleton_02_Jump Loop_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Loop\Regular_Skeleton_02_Jump Loop_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Start\Regular_Skeleton_02_Jump Start_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Start\Regular_Skeleton_02_Jump Start_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Start\Regular_Skeleton_02_Jump Start_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Start\Regular_Skeleton_02_Jump Start_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Start\Regular_Skeleton_02_Jump Start_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Jump Start\Regular_Skeleton_02_Jump Start_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Taunt\Regular_Skeleton_02_Taunt_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_02\PNG Sequences\Walking\Regular_Skeleton_02_Walking_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Attacking\Regular_Skeleton_03_Attacking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Dying\Regular_Skeleton_03_Dying_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Hurt\Regular_Skeleton_03_Hurt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle Blink\Regular_Skeleton_03_Idle Blink_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Idle\Regular_Skeleton_03_Idle_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Loop\Regular_Skeleton_03_Jump Loop_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Loop\Regular_Skeleton_03_Jump Loop_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Loop\Regular_Skeleton_03_Jump Loop_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Loop\Regular_Skeleton_03_Jump Loop_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Loop\Regular_Skeleton_03_Jump Loop_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Loop\Regular_Skeleton_03_Jump Loop_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Start\Regular_Skeleton_03_Jump Start_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Start\Regular_Skeleton_03_Jump Start_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Start\Regular_Skeleton_03_Jump Start_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Start\Regular_Skeleton_03_Jump Start_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Start\Regular_Skeleton_03_Jump Start_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Jump Start\Regular_Skeleton_03_Jump Start_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Taunt\Regular_Skeleton_03_Taunt_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_000.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_001.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_002.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_003.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_004.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_005.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_006.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_007.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_008.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_009.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_010.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_011.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_012.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_013.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_014.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_015.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_016.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Regular_Skeleton_03\PNG Sequences\Walking\Regular_Skeleton_03_Walking_017.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Controls\Button.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Menus\Title Tag.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Gloomhaven Tiles\Black Barrow.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Sprites\Gloomhaven Tiles\Wood Door Closed Horizontal.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Scenarios\Black Barrow.txt
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Cards\Cards.json
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Cards\Fire Orbs.xnb
+C:\Users\16308\source\repos\RPG_test_game\RPG_test_game\bin\Debug\netcoreapp3.1\Content\Cards\Flame Strike.xnb
